@@ -4,8 +4,7 @@
 
 [node name="Floor" type="Node2D"]
 
-[node name="Sprite" type="Sprite" parent="."]
-
 [node name="YSort" type="YSort" parent="."]
 
 [node name="Player" parent="YSort" instance=ExtResource( 1 )]
+position = Vector2( 167.227, 87.7844 )
