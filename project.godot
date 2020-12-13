@@ -19,6 +19,10 @@ config/name="Mini Jam"
 run/main_scene="res://Environment/Floor.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+PlayerStats="*res://Player/PlayerStats.tscn"
+
 [display]
 
 window/size/width=320
